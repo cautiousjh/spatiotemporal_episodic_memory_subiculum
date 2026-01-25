@@ -8,7 +8,6 @@ This repository contains the analysis code and data resources for the paper:
 - MATLAB 2022a or higher
 ---
 ## Repository structure
----
 
 ├── code_behavior/
 │   ├── code1_behavior_overall.m
