@@ -4,9 +4,8 @@ This repository contains the analysis code and data resources for the paper:
 **A spatiotemporal scaffold in the human subiculum supports episodic memory and its enhancement through navigation training** *Jung Han Shin, Verner P. Bingman, and Sang Ah Lee*
 
 ## Software requirements
----
 - MATLAB 2022a or higher
----
+
 ## Script details
 
 ### Behavioral scripts (`code_behavior/`)
@@ -19,7 +18,6 @@ This repository contains the analysis code and data resources for the paper:
 - **`code3_training_em.m`**  
   Training-related effects on episodic memory performance.
 
----
 
 ### Neural scripts (`code_neural/`)
 - **`code1_act_roi.m`**  
@@ -37,7 +35,6 @@ This repository contains the analysis code and data resources for the paper:
 - **`code5_training_pat.m`**  
   Training effects on neural pattern reinstatement.
 
----
 
 ## Data
 The `data_organized/` directory contains organized data used for analysis.
