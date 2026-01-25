@@ -2,8 +2,9 @@
 
 This repository contains the analysis code and data resources for the paper:
 
-**A spatiotemporal scaffold in the human subiculum supports episodic memory and its enhancement through navigation training**  
-*Jung Han Shin, Verner P. Bingman, and Sang Ah Lee*
+*Jung Han Shin, Verner P. Bingman, and Sang Ah Lee (in prep.).*
+**A spatiotemporal scaffold in the human subiculum supports episodic memory and its enhancement through navigation training.**  
+
 
 ## Software requirements
 - MATLAB 2022a or higher
