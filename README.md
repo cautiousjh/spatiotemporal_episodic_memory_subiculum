@@ -9,6 +9,7 @@ This repository contains the analysis code and data resources for the paper:
 ---
 ## Repository structure
 ---
+
 ├── code_behavior/
 │   ├── code1_behavior_overall.m
 │   ├── code2_training_spatial.m
