@@ -38,13 +38,3 @@ This repository contains the analysis code and data resources for the paper:
 - **`code5_training_pat.m`**  
   Training effects on neural pattern reinstatement.
 
-
-## Data
-The `data_organized/` directory contains organized data used for analysis.
-
----
-## Citation
-If you use this code, please cite:
-
-> Shin, J. H., Bingman, V. P., & Lee, S. A.  
-> *A spatiotemporal scaffold in the human subiculum supports episodic memory and its enhancement through navigation training.*
