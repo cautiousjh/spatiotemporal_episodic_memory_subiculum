@@ -7,23 +7,6 @@ This repository contains the analysis code and data resources for the paper:
 ---
 - MATLAB 2022a or higher
 ---
-## Repository structure
-
-├── code_behavior/
-│   ├── code1_behavior_overall.m
-│   ├── code2_training_spatial.m
-│   └── code3_training_em.m
-│
-├── code_neural/
-│   ├── code1_act_roi.m
-│   ├── code2_pat_roi.m
-│   ├── code3_neural_compress.m
-│   ├── code4_training_act.m
-│   ├── code5_training_pat.m
-│   └── for_ref_preprocess_neural_comp*.m
-│
-└── data_organized/
----
 ## Script details
 
 ### Behavioral scripts (`code_behavior/`)
